@@ -35,10 +35,10 @@ content:
     tag: Traduzioni
   - name: Altro
     tag: Generale
-  - name: Poesie
+  - name: Scrittura
     tag: Poesie
-  - name: Sistemi Operativi
-    tag: Linux
+  - name: Tecnologie Web
+    tag: Siti Statici
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

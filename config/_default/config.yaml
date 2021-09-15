@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Claudio Stazzone HomePage # Website name
-baseurl: 'https://warthog18.gitlab.com/claudiostazzone.it/' # Website URL
+baseurl: 'https://warthog18.github.com/claudiostazzone.it/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 publishDir: docs
 
@@ -14,7 +14,7 @@ publishDir: docs
 
 defaultContentLanguage: it
 hasCJKLanguage: false
-defaultContentLanguageInSubdir: false
+defaultContentLanguageInSubdir: true
 removePathAccents: true
 
 ############################

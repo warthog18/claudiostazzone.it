@@ -49,14 +49,14 @@ social:
 - icon: diaspora
   icon_pack: fab
   link: https://diasp.org/people/7bb17e7080b90138a558047d7b62795e
-- icon: github
-  icon_pack: fab
-  link: https://github.com/warthog18
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/warthog18
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: cv 
-  icon_pack: ai
-  link: uploads/cv.pdf
+#- icon: cv 
+#  icon_pack: ai
+#  link: uploads/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,4 +70,4 @@ email: ""
 
 Claudio Stazzone lavora presso il laboratorio di compatibilità elettromagnetica di un ente multinazionale di test e misure. Le sue attività principali sono l'esecuzione di misure EMC su varie tipologie di prodotti. Esegue fattibilità e lavora per obiettivi annuali.
 
-Si approccia alla compatibilità nel 2008, presso un laboratorio in provincia di Torino. Rimane presto affascinato dalla complessità della materia, e comincia a studiare e leggere vario materiale, e ad acquistare libri sulla compatibilità elettromagnetica e risoluzioe dei problemi relativi a questa materia.
+Si approccia alla compatibilità nel 2008, presso un laboratorio in provincia di Torino. Rimane presto affascinato dalla complessità della materia, e comincia a studiare e leggere vario materiale, e ad acquistare libri sulla compatibilità elettromagnetica e risoluzione dei problemi relativi a questa materia.
