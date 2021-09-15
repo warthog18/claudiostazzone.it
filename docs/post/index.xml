@@ -2,100 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | HomePage di Claudio Stazzone</title>
-    <link>https://warthog18.gitlab.com/claudiostazzone.it/post/</link>
-      <atom:link href="https://warthog18.gitlab.com/claudiostazzone.it/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://warthog18.github.com/claudiostazzone.it/post/</link>
+      <atom:link href="https://warthog18.github.com/claudiostazzone.it/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>it</language><lastBuildDate>Wed, 15 Sep 2021 21:13:36 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>it</language>
     <image>
-      <url>https://warthog18.gitlab.com/claudiostazzone.it/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://warthog18.github.com/claudiostazzone.it/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
-      <link>https://warthog18.gitlab.com/claudiostazzone.it/post/</link>
+      <link>https://warthog18.github.com/claudiostazzone.it/post/</link>
     </image>
-    
-    <item>
-      <title>Poesie</title>
-      <link>https://warthog18.gitlab.com/claudiostazzone.it/post/poems/</link>
-      <pubDate>Wed, 15 Sep 2021 21:13:36 +0200</pubDate>
-      <guid>https://warthog18.gitlab.com/claudiostazzone.it/post/poems/</guid>
-      <description>&lt;p&gt;In questa sezione ho raccolto alcune poesie, scritte in psrticolari momenti della mia vita.&lt;/p&gt;
-&lt;p&gt;La scelta di pubblicarle su quwsto sito è stata dura, perché sono delle poesie abbastanza personali,
-ma che potrebbero servire ad altre persone che hanno provato le mie stesse sensazioni.
-Inoltre è sempre utile ricevere un giudizio del lettore.&lt;/p&gt;
-&lt;p&gt;Queste poesie sono state un aiuto in alcuni momenti difficili ed è un esercizio
-molto valido per affinare di più la mia conoscenza della lingua inglese.
-Infatti credo che non sia così semplice scrivere in una lingua che non è la propria, e le rime complicano seriamente le cose.&lt;/p&gt;
-&lt;p&gt;Purtroppo non riesco a risalire alle date esatte in cui sono state scritte, ma posso dire che risalgono al periodo che inizia dall&amp;rsquo;estate del 2004.&lt;/p&gt;
-&lt;p&gt;&lt;br/&gt;&lt;br/&gt;
-&lt;strong&gt;Loneliness - Summer 2004&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Loneliness, you don&amp;rsquo;t realize of her&lt;br&gt;
-and she&amp;rsquo;s already there&lt;br&gt;
-She has long arms to surrond you&lt;br&gt;
-in a dull embrace&lt;br&gt;
-turing a clear path into a foggy trace&lt;/p&gt;
-&lt;p&gt;She can sweep away&lt;br&gt;
-all my happy thoughts&lt;br&gt;
-about friends, love, the wolrd iself is now&lt;br&gt;
-grey&lt;/p&gt;
-&lt;p&gt;It&amp;rsquo;s like living in a closed, locked case&lt;br&gt;
-alone without any grace&lt;br&gt;
-I loose my hold on reality&lt;br&gt;
-I have to strain to fight&lt;br&gt;
-against her brutality&lt;br&gt;
-But my hands are bare&lt;br&gt;
-and my force is no more&lt;/p&gt;
-&lt;p&gt;Wait, I&amp;rsquo;m not alone&lt;br&gt;
-there&amp;rsquo;s the loneliness over me,&lt;br&gt;
-we talk to each other&lt;br&gt;
-She&amp;rsquo;s sitting on her throne&lt;br&gt;
-She is my beloved, my princess&lt;br&gt;
-I live with the loneliness&lt;/p&gt;
-&lt;p&gt;&lt;br/&gt;&lt;br/&gt;
-&lt;strong&gt;Loneliness, sweet fantasy - Autumn 2004&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;I could live happy moments with her&lt;br&gt;
-Not much is required,&lt;br&gt;
-loneliness, torpor, darkness&lt;br&gt;
-I can imagine thousands of stories&lt;br&gt;
-Oh, so sweet fantasy,&lt;br&gt;
-spare me some company&lt;br&gt;
-&amp;lsquo;Cos only when you are&lt;br&gt;
-I&amp;rsquo;m happy&lt;br&gt;
-Alone no more&lt;/p&gt;
-&lt;p&gt;She&amp;rsquo;s so beautiful,&lt;br&gt;
-we&amp;rsquo;re talking to each other,&lt;br&gt;
-smiling and leading us,&lt;br&gt;
-hand in hand into foreseen matters&lt;br&gt;
-I&amp;rsquo;m fine with her&lt;br&gt;
-but she isn&amp;rsquo;t real&lt;br&gt;
-I woke up in my bed&lt;br&gt;
-&amp;lsquo;cos she was without the head&lt;/p&gt;
-&lt;p&gt;&lt;br/&gt;&lt;br/&gt;
-&lt;strong&gt;Breaking in - Spring 2005&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Like lighting in a cloudless sky&lt;br&gt;
-Like a laugh after a sorrow cry&lt;br&gt;
-I&amp;rsquo;ve heard you breaking in&lt;/p&gt;
-&lt;p&gt;&amp;lsquo;Twas a fast moment, not long, not planned&lt;br&gt;
-A sweet touch and voice and my heart,&lt;br&gt;
-Clamped&lt;br&gt;
-You were ruling the game&lt;br&gt;
-with the impetuousness of impatient child,&lt;br&gt;
-cheeky as if you knew me for years&lt;/p&gt;
-&lt;p&gt;Like a sudden flash after ages of darkness&lt;br&gt;
-Like a thread of hope after despair knitting&lt;br&gt;
-I&amp;rsquo;ve felt you breaking in&lt;/p&gt;
-&lt;p&gt;I fell,&lt;br&gt;
-not because of weakness&lt;br&gt;
-not because of your shamelessness&lt;br&gt;
-I fell because of the whole you&lt;/p&gt;
-&lt;p&gt;Time will pass,&lt;br&gt;
-like the light through a glass,&lt;br&gt;
-future unclear,&lt;br&gt;
-like a fabric not stoo sheer&lt;br&gt;
-A single thing I surely know&lt;br&gt;
-I was living my life and suddenly&lt;br&gt;
-without warning&lt;br&gt;
-I&amp;rsquo;ve heard you breaking in&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>

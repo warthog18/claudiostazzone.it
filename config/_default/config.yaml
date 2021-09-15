@@ -14,7 +14,7 @@ publishDir: docs
 
 defaultContentLanguage: it
 hasCJKLanguage: false
-defaultContentLanguageInSubdir: true
+defaultContentLanguageInSubdir: false
 removePathAccents: true
 
 ############################
