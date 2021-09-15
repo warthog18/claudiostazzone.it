@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Claudio Stazzone | HomePage di Claudio Stazzone</title>
+    <link>https://warthog18.gitlab.com/claudiostazzone.it/author/claudio-stazzone/</link>
+      <atom:link href="https://warthog18.gitlab.com/claudiostazzone.it/author/claudio-stazzone/index.xml" rel="self" type="application/rss+xml" />
+    <description>Claudio Stazzone</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>it</language><lastBuildDate>Wed, 15 Sep 2021 21:13:36 +0200</lastBuildDate>
+    <image>
+      <url>https://warthog18.gitlab.com/claudiostazzone.it/author/claudio-stazzone/avatar_hu57dc8c4d3f9aa1c459c2a27d12c812ce_95418_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Claudio Stazzone</title>
+      <link>https://warthog18.gitlab.com/claudiostazzone.it/author/claudio-stazzone/</link>
+    </image>
+    
+    <item>
+      <title>Poesie</title>
+      <link>https://warthog18.gitlab.com/claudiostazzone.it/post/poems/</link>
+      <pubDate>Wed, 15 Sep 2021 21:13:36 +0200</pubDate>
+      <guid>https://warthog18.gitlab.com/claudiostazzone.it/post/poems/</guid>
+      <description>&lt;p&gt;In questa sezione ho raccolto alcune poesie, scritte in psrticolari momenti della mia vita.&lt;/p&gt;
+&lt;p&gt;La scelta di pubblicarle su quwsto sito è stata dura, perché sono delle poesie abbastanza personali,
+ma che potrebbero servire ad altre persone che hanno provato le mie stesse sensazioni.
+Inoltre è sempre utile ricevere un giudizio del lettore.&lt;/p&gt;
+&lt;p&gt;Queste poesie sono state un aiuto in alcuni momenti difficili ed è un esercizio
+molto valido per affinare di più la mia conoscenza della lingua inglese.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example preprint / working paper</title>
+      <link>https://warthog18.gitlab.com/claudiostazzone.it/publication/preprint/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://warthog18.gitlab.com/claudiostazzone.it/publication/preprint/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example journal article</title>
+      <link>https://warthog18.gitlab.com/claudiostazzone.it/publication/journal-article/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://warthog18.gitlab.com/claudiostazzone.it/publication/journal-article/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example conference paper</title>
+      <link>https://warthog18.gitlab.com/claudiostazzone.it/publication/conference-paper/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://warthog18.gitlab.com/claudiostazzone.it/publication/conference-paper/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

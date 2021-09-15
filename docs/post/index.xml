@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | HomePage di Claudio Stazzone</title>
+    <link>https://warthog18.gitlab.com/claudiostazzone.it/post/</link>
+      <atom:link href="https://warthog18.gitlab.com/claudiostazzone.it/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>it</language><lastBuildDate>Wed, 15 Sep 2021 21:13:36 +0200</lastBuildDate>
+    <image>
+      <url>https://warthog18.gitlab.com/claudiostazzone.it/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Posts</title>
+      <link>https://warthog18.gitlab.com/claudiostazzone.it/post/</link>
+    </image>
+    
+    <item>
+      <title>Poesie</title>
+      <link>https://warthog18.gitlab.com/claudiostazzone.it/post/poems/</link>
+      <pubDate>Wed, 15 Sep 2021 21:13:36 +0200</pubDate>
+      <guid>https://warthog18.gitlab.com/claudiostazzone.it/post/poems/</guid>
+      <description>&lt;p&gt;In questa sezione ho raccolto alcune poesie, scritte in psrticolari momenti della mia vita.&lt;/p&gt;
+&lt;p&gt;La scelta di pubblicarle su quwsto sito è stata dura, perché sono delle poesie abbastanza personali,
+ma che potrebbero servire ad altre persone che hanno provato le mie stesse sensazioni.
+Inoltre è sempre utile ricevere un giudizio del lettore.&lt;/p&gt;
+&lt;p&gt;Queste poesie sono state un aiuto in alcuni momenti difficili ed è un esercizio
+molto valido per affinare di più la mia conoscenza della lingua inglese.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
