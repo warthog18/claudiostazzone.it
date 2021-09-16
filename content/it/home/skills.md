@@ -17,27 +17,27 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 90%
-  icon: r-project
-  icon_pack: fab
-  name: Utilizzazione Strumentazione Elettronica
+  icon: microscope
+  icon_pack: fas
+  name: Strumentazione Elettronica
 - description: 100%
   icon: chart-line
   icon_pack: fas
   name: Software di controllo Misure EMC
 - description: 80%
-  icon: camera-retro
+  icon: tasks
   icon_pack: fas
   name: Management tecnico di laboratorio
 - description: 60%
-  icon: camera-retro
+  icon: tools
   icon_pack: fas
   name: Tarature di Strumentazione Elettronica
 - description: 80%
-  icon: camera-retro
+  icon: glasses
   icon_pack: fas
   name: Accreditamento di Laboratorio Prove
 - description: 80%
-  icon: camera-retro
+  icon: tachometer-alt
   icon_pack: fas
   name: Miglioramento efficienza delle catene di misura
 # Uncomment to use emoji icons.
