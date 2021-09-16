@@ -1,0 +1,17 @@
+#!/bin/bash
+
+if [ -z "$1" ]
+then
+	echo Manca il commento del COMMIT
+	exit
+fi
+echo Compilo il sito
+hugo
+echo Aggiungo i file con GIT
+git add *
+echo Decido il messaggio di commit
+git commit -m "$1"
+echo $1
+echo Eseguo il push del sito
+git push origin main
+

@@ -28,13 +28,21 @@ it:
      description: HomePage di Claudio Stazzone
    menu:
      main:
-       - name: Articoli
+       - name: Blog
          url: '#posts'
          weight: 20
              
        - name: Progetti
          url: '#projects'
          weight: 30
+
+       - name: Articoli
+         url: '#publications'
+         weight: 40
+
+       - name: Immagini
+         url: '#gallery'
+         weight: 50
 
        - name: Contatti
          url: '#contact'
