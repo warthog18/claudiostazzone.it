@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ingegnere della Compatibilità Elettromagnetica
+role: Electromagnetic Compatibility Engineer
 
 # Organizations/Affiliations
 organizations:
@@ -18,20 +18,20 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Lavoro nella compatibilità elettromagnetica dal 2008. Sono Senior Project Handler nel laboratorio EMC di una grande multinazionale del testing.
+bio: I work as an EMC Testing Engineer since 2008. At present I am Senior Project Handler by the EMC lab of an important TIC (Testing-Inspection-Certification) multinational company.
 
 interests:
-- Compatibilità Elettromagnetica
-- Radio Frequenza
-- Troubleshooting EMC
-- Progettazione Elettronica
+- Electromagnetic Compatibility
+- Radio Frequency phenomena
+- EMC Troubleshooting
+- Electronic Design of PCB boards
 
 education:
   courses:
-  - course: Laurea di I livello in Ingegneria delle Telecomunicazioni
-    institution: Politecnico di Torino
+  - course: Bachelor Degree in Telecommunications Engineering
+    institution: Politechnics of Turin (Italy)
     year: 2006
-  - course: Diploma in Elettronica e Telecomunicazioni
+  - course: Electronics and Telecommunications Diploma
     institution: ITIS G.B. Pininfarina
     year: 1998
 
@@ -68,6 +68,7 @@ email: ""
 #git@github.com:warthog18/academic.git- Visitors
 ---
 
-Claudio Stazzone lavora presso il laboratorio di compatibilità elettromagnetica di un ente multinazionale di test e misure. Le sue attività principali sono l'esecuzione di misure EMC su varie tipologie di prodotti. Coordina e gestisce le attività di misura del laboratorio, le tarature interne e l'apparato tecnico per l'accreditamento nazionale del laboratorio.
+Claudio Stazzone works by the Electromagnetic Compatibility laboratory of a big multinational TIC company.
+His main task is performing EMC measurements and Radio Spectrum measurements on various products. He is one of the references for setups and measurements among the EMC team of the lab. He is involved in various projects for laboratory automation and Radio Equipment measurements.
 
-Si approccia alla compatibilità nel 2008, presso un laboratorio in provincia di Torino. Rimane presto affascinato dalla complessità della materia, e comincia a studiare e leggere vario materiale, e ad acquistare libri sulla compatibilità.
+He approaches Electromagnetic compatibility in 2008, by a small laboratory near Turin. He soon got fashinated by the complexity of the subject, and begins to buy books on EMC, in order to study and increase knowledge.

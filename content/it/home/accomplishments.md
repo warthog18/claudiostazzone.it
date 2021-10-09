@@ -37,7 +37,7 @@ item:
   date_end: "2019-10-30"
   date_start: "2019-10-01"
   description: "Corso di 14.5 ore su Altium Designer. Progetto di una scheda digitale basata su Arduino. 
-  La scheda è basata su microcontrollori Atmel. Il link del progetto è www.28pins.com. 
+  La scheda è basata su microcontrollori Atmel. Il link del progetto è [www.28pins.com](www.28pins.com). 
   Dallo schematico alla scheda funzionante."
   organization: Fedevel Academy
   organization_url: https://academy.fedevel.com

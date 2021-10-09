@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Courses I attended'
 subtitle:
 
 # Date format
@@ -23,30 +23,34 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
-  date_end: ""
-  date_start: "2021-01-25"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
-  url: ""
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
-  url: ""
+- certificate_url: https://test.fedevel.com/academy/wp-content/fa-files/certificate/20288-47ae62d5203b7b0f4fc0876dedb407a0.pdf
+  date_end: "2020-01-01"
+  date_start: "2019-12-01"
+  description: "Begin a new project in Altium Designer. Creation of symbols library.
+  Design of Schematic. Footprint creation. PCB Layout. Layout improvements.
+  Finishing of the PCB and generation of documentation files for boards creation (gerber, drill files, ...)."
+  organization: Fedevel Academy
+  organization_url: https://academy.fedevel.com
+  title: Switching Power Supply Design
+  url: https://academy.fedevel.com/courses/online-switching-power-supply-design-course
+- certificate_url: http://ude.my/UC-02KL48G8
+  date_end: "2019-10-30"
+  date_start: "2019-10-01"
+  description: "14.5 hourse course on Altium Designer. Design of PCB digital board Arduino based. 
+  The board is absed on Atmel (now Microchip) processors. Project link is [www.28pins.com](www.28pins.com). 
+  From schematic to working PCB."
+  organization: Fedevel Academy
+  organization_url: https://academy.fedevel.com
+  title: Learn to design your own boards
+  url: https://www.udemy.com/course/learn-to-design-your-own-boards
+- certificate_url: http://ude.my/UC-7KNBX1TG
+  date_end: "2019-09-30"
+  date_start: "2019-09-01"
+  description: "3.5 hours introductory course on Altium Designer. Design of an easy PCB board, with power supply,resistors, and LEDs."
+  organization: Fedevel Academy
+  organization_url: https://academy.fedevel.com
+  title: Starting with Altium Designer
+  url: https://www.udemy.com/course/starting-with-altium-designer/
 
 design:
   columns: '2' 

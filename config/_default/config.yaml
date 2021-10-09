@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Claudio Stazzone HomePage # Website name
+title: Claudio Stazzone # Website name
 baseurl: 'https://warthog18.github.com/claudiostazzone.it/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 publishDir: docs
