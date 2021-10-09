@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HomePage di Claudio Stazzone</title>
-    <link>https://warthog18.github.com/claudiostazzone.it/</link>
-      <atom:link href="https://warthog18.github.com/claudiostazzone.it/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://warthog18.github.io/claudiostazzone.it/</link>
+      <atom:link href="https://warthog18.github.io/claudiostazzone.it/index.xml" rel="self" type="application/rss+xml" />
     <description>HomePage di Claudio Stazzone</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>it</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://warthog18.github.com/claudiostazzone.it/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://warthog18.github.io/claudiostazzone.it/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>HomePage di Claudio Stazzone</title>
-      <link>https://warthog18.github.com/claudiostazzone.it/</link>
+      <link>https://warthog18.github.io/claudiostazzone.it/</link>
     </image>
     
     <item>
       <title>Python basics</title>
-      <link>https://warthog18.github.com/claudiostazzone.it/courses/example/python/</link>
+      <link>https://warthog18.github.io/claudiostazzone.it/courses/example/python/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://warthog18.github.com/claudiostazzone.it/courses/example/python/</guid>
+      <guid>https://warthog18.github.io/claudiostazzone.it/courses/example/python/</guid>
       <description>&lt;p&gt;Build a foundation in Python.&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
@@ -51,9 +51,9 @@
     
     <item>
       <title>Visualization</title>
-      <link>https://warthog18.github.com/claudiostazzone.it/courses/example/visualization/</link>
+      <link>https://warthog18.github.io/claudiostazzone.it/courses/example/visualization/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://warthog18.github.com/claudiostazzone.it/courses/example/visualization/</guid>
+      <guid>https://warthog18.github.io/claudiostazzone.it/courses/example/visualization/</guid>
       <description>&lt;p&gt;Learn how to visualize data with Plotly.&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
@@ -81,9 +81,9 @@ fig.show()
     
     <item>
       <title>Statistics</title>
-      <link>https://warthog18.github.com/claudiostazzone.it/courses/example/stats/</link>
+      <link>https://warthog18.github.io/claudiostazzone.it/courses/example/stats/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://warthog18.github.com/claudiostazzone.it/courses/example/stats/</guid>
+      <guid>https://warthog18.github.io/claudiostazzone.it/courses/example/stats/</guid>
       <description>&lt;p&gt;Introduction to statistics for data science.&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
@@ -109,9 +109,9 @@ The variance of the distribution is $\sigma^{2}$.
     
     <item>
       <title>Example Talk</title>
-      <link>https://warthog18.github.com/claudiostazzone.it/talk/example-talk/</link>
+      <link>https://warthog18.github.io/claudiostazzone.it/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://warthog18.github.com/claudiostazzone.it/talk/example-talk/</guid>
+      <guid>https://warthog18.github.io/claudiostazzone.it/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -129,9 +129,9 @@ The variance of the distribution is $\sigma^{2}$.
     
     <item>
       <title>Poesie</title>
-      <link>https://warthog18.github.com/claudiostazzone.it/project/poems/</link>
+      <link>https://warthog18.github.io/claudiostazzone.it/project/poems/</link>
       <pubDate>Thu, 16 Sep 2021 00:37:44 +0200</pubDate>
-      <guid>https://warthog18.github.com/claudiostazzone.it/project/poems/</guid>
+      <guid>https://warthog18.github.io/claudiostazzone.it/project/poems/</guid>
       <description>&lt;p&gt;In questa sezione ho raccolto alcune poesie, scritte in psrticolari momenti della mia vita.&lt;/p&gt;
 &lt;p&gt;La scelta di pubblicarle su quwsto sito è stata dura, perché sono delle poesie abbastanza personali,
 ma che potrebbero servire ad altre persone che hanno provato le mie stesse sensazioni.
@@ -252,9 +252,9 @@ Ask for the Art of Waiting.&lt;/p&gt;
     
     <item>
       <title>28Pins</title>
-      <link>https://warthog18.github.com/claudiostazzone.it/project/28pins/</link>
+      <link>https://warthog18.github.io/claudiostazzone.it/project/28pins/</link>
       <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://warthog18.github.com/claudiostazzone.it/project/28pins/</guid>
+      <guid>https://warthog18.github.io/claudiostazzone.it/project/28pins/</guid>
       <description>&lt;p&gt;Dopo aver seguito l&amp;rsquo;intero corso della &lt;a href=&#34;https://academy.fedevel.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fedevel Academy&lt;/a&gt; intitolato &amp;ldquo;Learn to design your own boards&amp;rdquo;, ho assemblato in ambiente casalingo il progetto della board chiamata 28Pins. Cliccando &lt;a href=&#34;https://www.28pins.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;qui&lt;/a&gt; si può accedere al sito internet con tutto il materiale che serve per produrre la scheda: hardware, componenti, firmware&amp;hellip;&lt;/p&gt;
 &lt;p&gt;Il progetto nasce dalla mia curiosità di guardare la mia attività di Troubleshooting EMC dal punto di vista del progettista elettronico.&lt;/p&gt;
 </description>
@@ -262,9 +262,9 @@ Ask for the Art of Waiting.&lt;/p&gt;
     
     <item>
       <title>Traduzioni in Italiano di Corsi di Elettronica On-line</title>
-      <link>https://warthog18.github.com/claudiostazzone.it/project/traduzioni-corsi-elettronica/</link>
+      <link>https://warthog18.github.io/claudiostazzone.it/project/traduzioni-corsi-elettronica/</link>
       <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://warthog18.github.com/claudiostazzone.it/project/traduzioni-corsi-elettronica/</guid>
+      <guid>https://warthog18.github.io/claudiostazzone.it/project/traduzioni-corsi-elettronica/</guid>
       <description>&lt;p&gt;Ho accettato di far parte di un team di traduttori dall&amp;rsquo;inglese dei corsi di &lt;a href=&#34;https://academy.fedevel.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fedevel Academy&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;E&#39; una attività che mi è sempre piaciuta, e che nasce da una mia passione per la lingua inglese, che ho sempre cercato di curare negli anni, sia nella forma grammaticale, che nella pronuncia e dell&amp;rsquo;uso di vocaboli sempre nuovi e ricercati.&lt;/p&gt;
 &lt;p&gt;E&#39; un&amp;rsquo;attività che mi piace fare nel tempo libero, ma che potrebbe benissimo entrare nel panorama professionale che offro come ingegnere.&lt;/p&gt;
@@ -273,9 +273,9 @@ Ask for the Art of Waiting.&lt;/p&gt;
     
     <item>
       <title>Allestimento Laboratori</title>
-      <link>https://warthog18.github.com/claudiostazzone.it/project/lab-elettronica/</link>
+      <link>https://warthog18.github.io/claudiostazzone.it/project/lab-elettronica/</link>
       <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://warthog18.github.com/claudiostazzone.it/project/lab-elettronica/</guid>
+      <guid>https://warthog18.github.io/claudiostazzone.it/project/lab-elettronica/</guid>
       <description>&lt;p&gt;Ho curato personalmente l&amp;rsquo;allestimento di un laboratorio appartenente ad una associazione di radioamatori in provincia di Torino.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
@@ -286,9 +286,9 @@ Ask for the Art of Waiting.&lt;/p&gt;
     
     <item>
       <title>PCB iSpindel</title>
-      <link>https://warthog18.github.com/claudiostazzone.it/project/ispindel/</link>
+      <link>https://warthog18.github.io/claudiostazzone.it/project/ispindel/</link>
       <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://warthog18.github.com/claudiostazzone.it/project/ispindel/</guid>
+      <guid>https://warthog18.github.io/claudiostazzone.it/project/ispindel/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
@@ -299,9 +299,9 @@ Ask for the Art of Waiting.&lt;/p&gt;
     
     <item>
       <title>Slides</title>
-      <link>https://warthog18.github.com/claudiostazzone.it/slides/example/</link>
+      <link>https://warthog18.github.io/claudiostazzone.it/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://warthog18.github.com/claudiostazzone.it/slides/example/</guid>
+      <guid>https://warthog18.github.io/claudiostazzone.it/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -428,9 +428,9 @@ Three
     
     <item>
       <title></title>
-      <link>https://warthog18.github.com/claudiostazzone.it/admin/config.yml</link>
+      <link>https://warthog18.github.io/claudiostazzone.it/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://warthog18.github.com/claudiostazzone.it/admin/config.yml</guid>
+      <guid>https://warthog18.github.io/claudiostazzone.it/admin/config.yml</guid>
       <description></description>
     </item>
     

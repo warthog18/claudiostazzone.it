@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | HomePage di Claudio Stazzone</title>
-    <link>https://warthog18.github.com/claudiostazzone.it/publication/</link>
-      <atom:link href="https://warthog18.github.com/claudiostazzone.it/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://warthog18.github.io/claudiostazzone.it/publication/</link>
+      <atom:link href="https://warthog18.github.io/claudiostazzone.it/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>it</language>
     <image>
-      <url>https://warthog18.github.com/claudiostazzone.it/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://warthog18.github.io/claudiostazzone.it/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
-      <link>https://warthog18.github.com/claudiostazzone.it/publication/</link>
+      <link>https://warthog18.github.io/claudiostazzone.it/publication/</link>
     </image>
     
   </channel>
