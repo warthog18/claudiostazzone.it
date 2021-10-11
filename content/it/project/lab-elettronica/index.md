@@ -1,6 +1,6 @@
 ---
 title: Allestimento Laboratori
-summary: allestimento di laboratori di elettronica per conto terzi
+summary: Allestimento di laboratori di elettronica per conto terzi
 tags:
 - Strumentazione
 date: "2020-02-27T00:00:00Z"

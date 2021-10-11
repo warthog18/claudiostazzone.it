@@ -23,7 +23,7 @@ en:
 it:
    languageCode: it
    contentDir: content/it
-   title: HomePage di Claudio Stazzone
+   title: Claudio Stazzone
    params:
      description: HomePage di Claudio Stazzone
    menu:

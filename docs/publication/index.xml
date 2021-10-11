@@ -1,16 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | HomePage di Claudio Stazzone</title>
+    <title>Publications | Claudio Stazzone</title>
     <link>https://warthog18.github.io/claudiostazzone.it/publication/</link>
       <atom:link href="https://warthog18.github.io/claudiostazzone.it/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>it</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>it</language><lastBuildDate>Wed, 30 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://warthog18.github.io/claudiostazzone.it/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://warthog18.github.io/claudiostazzone.it/publication/</link>
     </image>
+    
+    <item>
+      <title>Firmware: the inexpensive way to address EMC issues</title>
+      <link>https://warthog18.github.io/claudiostazzone.it/publication/firmware_emc/</link>
+      <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://warthog18.github.io/claudiostazzone.it/publication/firmware_emc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The final countdown: EN 60601-1-2 fourth edition</title>
+      <link>https://warthog18.github.io/claudiostazzone.it/publication/medical_it/</link>
+      <pubDate>Thu, 13 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://warthog18.github.io/claudiostazzone.it/publication/medical_it/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Armoniche e flicker... i soliti ignoti</title>
+      <link>https://warthog18.github.io/claudiostazzone.it/publication/arm_fli/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://warthog18.github.io/claudiostazzone.it/publication/arm_fli/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

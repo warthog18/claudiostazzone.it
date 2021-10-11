@@ -1,6 +1,6 @@
 ---
 title: 28Pins
-summary: dallo schematico al gerber della board "28Pins" 
+summary: Dallo schematico al gerber della board "28Pins" 
 tags:
 - PCB
 date: "2020-07-27T00:00:00Z"

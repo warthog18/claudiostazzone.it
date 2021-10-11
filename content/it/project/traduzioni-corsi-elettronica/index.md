@@ -1,6 +1,6 @@
 ---
 title: Traduzioni in Italiano di Corsi di Elettronica On-line
-summary: traduzioni dall'Inglese all'Italiano di testi e documenti
+summary: Traduzioni dall'Inglese all'Italiano di testi e documenti
 tags:
 - Traduzioni
 date: "2020-07-27T00:00:00Z"

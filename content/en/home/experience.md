@@ -48,13 +48,13 @@ experience:
     description: |2-
         Main Tasks:
 
-        * Esecuzione di misure EMC su apparati civili/industriali e medicali
-        * Esecuzione di misure EMC _in situ_ su apparati di grosse dimensioni
-        * Gestione dell'intero parco strumenti del laboratorio, in termini di tarature interne, tarature esterne, verifiche periodiche, prove in doppio
-        * Gestione del processo di accreditamento del laboratorio, con aggiornamento delle procedure operative e delle valutazioni dell'incertezza per le varie prove
-        * Fattibilità e stesura di piani prove EMC
-        * Analisi progressi futuri e piani di investimenti
-        * Supporto al cliente per inquadramento normativo prodotti
+        * EMC measurements on civil/industrial/medical equipment
+        * EMC _in situ_ measurements on huge and heavy equiment
+        * Management of all the instruments on the laboratory: calibrations (both external and internal), measurement chains verifications, cross verification procedures
+        * Laboratory accreditation management according to ISO 17025: procedures updates, uncertainty evaluations and preliminary checks
+        * Feasibility and EMC test plan definition
+        * Future investments, and analysis on strategic business fields
+        * Customer support aimed at definition/discovery of suitable specifications for products
         
   - title: EMC laboratory Technician
     company: ''
@@ -66,9 +66,9 @@ experience:
     description: |2-
         Main Tasks:
             
-        * Misure EMC su apparati industriali e civili
-        * Misure EMC _in situ_ su apparati industriali di grosse dimensioni
-        * Gestione del framework documentale ai fini di accreditamento
+        * EMC measurements on civil and industrial equipment
+        * EMC _in situ_ measurements on heavy industrial equipment
+        * Management of documental framework for accreditation of the lab according to ISO 17025
 
   - title: EMC Laboratory Technician
     company: ''
@@ -80,11 +80,11 @@ experience:
     description: |2-
         Main Tasks:
 
-        * Esecuzione di misure EMC su vari apparati civili/industriali
-        * Esecuzione di misure EMC su centraline elettroniche automotive, sotto omologazione dell'allora Ministero dei Trasporti (ora Ministero dello Sviluppo Economico)
-        * Esecuzione di misure EMC in situ su veicoli e apparati di grosse dimensioni
-        * Caratterizzazione di ambienti anecoici e schermati: misure di NSA, FSNSA, SVSWR, Efficienza di Schermatura
-        * Installazione, integrazione e training del software Radimation, presso vari laboratori, anche di complessità elevata. Supporto di primo livello ai clienti.
+        * EMC measurements on various kinds of civil and industrial equipment
+        * EMC measurements on EESAs (Electric and Electronic Sub Assemblies), under inspection of National Transport Ministry for Homologation of Autovehicles (now Economic Development Ministry of Italy)
+        * EMC _in situ_ measurements on vehicles and heavy equipment
+        * Characterization of anechoic and chambers and shielded rooms: measurements of NSA, FSNSA, SVSWR, Shielding Efficiency
+        * Installation, integration, and training of EMC measurements automation software Radimation from DARE!! (now RadiTeq), by various laboratories in Italy, with some installations of high complexity. First level support activity for customers.
 
 design:
   columns: '2'

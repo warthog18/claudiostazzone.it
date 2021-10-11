@@ -40,9 +40,9 @@ url_video: ""
 slides: ""
 ---
 
-In questa sezione ho raccolto alcune poesie, scritte in psrticolari momenti della mia vita.
+In questa sezione ho raccolto alcune poesie, scritte in particolari momenti della mia vita.
 
-La scelta di pubblicarle su quwsto sito è stata dura, perché sono delle poesie abbastanza personali, 
+La scelta di pubblicarle su questo sito è stata dura, perché sono delle poesie abbastanza personali, 
 ma che potrebbero servire ad altre persone che hanno provato le mie stesse sensazioni.
 Inoltre è sempre utile ricevere un giudizio del lettore.
 

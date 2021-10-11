@@ -5,6 +5,8 @@ then
 	echo Manca il commento del COMMIT
 	exit
 fi
+echo Cancello la cartella docs
+rm -rf docs
 echo Compilo il sito
 hugo
 echo Aggiungo i file con GIT

@@ -17,18 +17,29 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 90%
-  icon: r-project
-  icon_pack: fab
-  name: R
+  icon: microscope
+  icon_pack: fas
+  name: Electronics laboratory instruments
 - description: 100%
   icon: chart-line
   icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
+  name: EMC software automation
+- description: 80%
+  icon: tasks
   icon_pack: fas
-  name: Photography
-
+  name: Technical Management of EMC laboratory
+- description: 60%
+  icon: tools
+  icon_pack: fas
+  name: Calibration of laboratory and RF instruments
+- description: 80%
+  icon: glasses
+  icon_pack: fas
+  name: Accreditation of laboratories
+- description: 80%
+  icon: tachometer-alt
+  icon_pack: fas
+  name: Betterment of measurement chains efficiency
 # Uncomment to use emoji icons.
 #- icon: ':smile:'
 #  icon_pack: emoji

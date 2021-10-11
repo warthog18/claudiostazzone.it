@@ -49,9 +49,9 @@ social:
 - icon: diaspora
   icon_pack: fab
   link: https://diasp.org/people/7bb17e7080b90138a558047d7b62795e
-- icon: github
-  icon_pack: fab
-  link: https://github.com/warthog18
+# - icon: github
+#  icon_pack: fab
+#  link: https://github.com/warthog18
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

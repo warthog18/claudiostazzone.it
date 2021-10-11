@@ -1,6 +1,6 @@
 ---
 title: PCB iSpindel
-summary: assemblaggio componenti per conto terzi
+summary: Assemblaggio componenti per conto terzi
 tags:
 - PCB
 date: "2020-02-27T00:00:00Z"
