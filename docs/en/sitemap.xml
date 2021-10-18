@@ -80,6 +80,90 @@
                 href="https://warthog18.github.io/claudiostazzone.it/en/event/"
                 />
   </url><url>
+    <loc>https://warthog18.github.io/claudiostazzone.it/en/authors/</loc>
+    <lastmod>2021-09-16T00:37:44+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://warthog18.github.io/claudiostazzone.it/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://warthog18.github.io/claudiostazzone.it/en/authors/"
+                />
+  </url><url>
+    <loc>https://warthog18.github.io/claudiostazzone.it/en/categories/</loc>
+    <lastmod>2021-09-16T00:37:44+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://warthog18.github.io/claudiostazzone.it/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://warthog18.github.io/claudiostazzone.it/en/categories/"
+                />
+  </url><url>
+    <loc>https://warthog18.github.io/claudiostazzone.it/en/author/claudio-stazzone/</loc>
+    <lastmod>2021-09-16T00:37:44+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://warthog18.github.io/claudiostazzone.it/author/claudio-stazzone/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://warthog18.github.io/claudiostazzone.it/en/author/claudio-stazzone/"
+                />
+  </url><url>
+    <loc>https://warthog18.github.io/claudiostazzone.it/en/tag/poems/</loc>
+    <lastmod>2021-09-16T00:37:44+02:00</lastmod>
+  </url><url>
+    <loc>https://warthog18.github.io/claudiostazzone.it/en/project/poems/</loc>
+    <lastmod>2021-09-16T00:37:44+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://warthog18.github.io/claudiostazzone.it/project/poems/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://warthog18.github.io/claudiostazzone.it/en/project/poems/"
+                />
+  </url><url>
+    <loc>https://warthog18.github.io/claudiostazzone.it/en/project/</loc>
+    <lastmod>2021-09-16T00:37:44+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://warthog18.github.io/claudiostazzone.it/project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://warthog18.github.io/claudiostazzone.it/en/project/"
+                />
+  </url><url>
+    <loc>https://warthog18.github.io/claudiostazzone.it/en/tags/</loc>
+    <lastmod>2021-09-16T00:37:44+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://warthog18.github.io/claudiostazzone.it/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://warthog18.github.io/claudiostazzone.it/en/tags/"
+                />
+  </url><url>
+    <loc>https://warthog18.github.io/claudiostazzone.it/en/category/writing/</loc>
+    <lastmod>2021-09-16T00:37:44+02:00</lastmod>
+  </url><url>
     <loc>https://warthog18.github.io/claudiostazzone.it/en/courses/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -122,32 +206,6 @@
     <loc>https://warthog18.github.io/claudiostazzone.it/en/tag/articles/</loc>
     <lastmod>2020-09-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://warthog18.github.io/claudiostazzone.it/en/authors/</loc>
-    <lastmod>2020-09-30T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://warthog18.github.io/claudiostazzone.it/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://warthog18.github.io/claudiostazzone.it/en/authors/"
-                />
-  </url><url>
-    <loc>https://warthog18.github.io/claudiostazzone.it/en/author/claudio-stazzone/</loc>
-    <lastmod>2020-09-30T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://warthog18.github.io/claudiostazzone.it/author/claudio-stazzone/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://warthog18.github.io/claudiostazzone.it/en/author/claudio-stazzone/"
-                />
-  </url><url>
     <loc>https://warthog18.github.io/claudiostazzone.it/en/publication/firmware_emc/</loc>
     <lastmod>2020-09-30T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -187,17 +245,95 @@
                 href="https://warthog18.github.io/claudiostazzone.it/en/publication/"
                 />
   </url><url>
-    <loc>https://warthog18.github.io/claudiostazzone.it/en/tags/</loc>
-    <lastmod>2020-09-30T00:00:00+00:00</lastmod>
+    <loc>https://warthog18.github.io/claudiostazzone.it/en/project/28pins/</loc>
+    <lastmod>2020-07-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://warthog18.github.io/claudiostazzone.it/tags/"
+                href="https://warthog18.github.io/claudiostazzone.it/project/28pins/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://warthog18.github.io/claudiostazzone.it/en/tags/"
+                href="https://warthog18.github.io/claudiostazzone.it/en/project/28pins/"
+                />
+  </url><url>
+    <loc>https://warthog18.github.io/claudiostazzone.it/en/tag/pcb/</loc>
+    <lastmod>2020-07-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://warthog18.github.io/claudiostazzone.it/tag/pcb/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://warthog18.github.io/claudiostazzone.it/en/tag/pcb/"
+                />
+  </url><url>
+    <loc>https://warthog18.github.io/claudiostazzone.it/en/tag/traduzioni/</loc>
+    <lastmod>2020-07-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://warthog18.github.io/claudiostazzone.it/tag/traduzioni/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://warthog18.github.io/claudiostazzone.it/en/tag/traduzioni/"
+                />
+  </url><url>
+    <loc>https://warthog18.github.io/claudiostazzone.it/en/project/traduzioni-corsi-elettronica/</loc>
+    <lastmod>2020-07-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://warthog18.github.io/claudiostazzone.it/project/traduzioni-corsi-elettronica/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://warthog18.github.io/claudiostazzone.it/en/project/traduzioni-corsi-elettronica/"
+                />
+  </url><url>
+    <loc>https://warthog18.github.io/claudiostazzone.it/en/project/lab-elettronica/</loc>
+    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://warthog18.github.io/claudiostazzone.it/project/lab-elettronica/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://warthog18.github.io/claudiostazzone.it/en/project/lab-elettronica/"
+                />
+  </url><url>
+    <loc>https://warthog18.github.io/claudiostazzone.it/en/project/ispindel/</loc>
+    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://warthog18.github.io/claudiostazzone.it/project/ispindel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://warthog18.github.io/claudiostazzone.it/en/project/ispindel/"
+                />
+  </url><url>
+    <loc>https://warthog18.github.io/claudiostazzone.it/en/tag/strumentazione/</loc>
+    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://warthog18.github.io/claudiostazzone.it/tag/strumentazione/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://warthog18.github.io/claudiostazzone.it/en/tag/strumentazione/"
                 />
   </url><url>
     <loc>https://warthog18.github.io/claudiostazzone.it/en/slides/</loc>
@@ -262,18 +398,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://warthog18.github.io/claudiostazzone.it/en/admin/"
-                />
-  </url><url>
-    <loc>https://warthog18.github.io/claudiostazzone.it/en/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://warthog18.github.io/claudiostazzone.it/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://warthog18.github.io/claudiostazzone.it/en/categories/"
                 />
   </url><url>
     <loc>https://warthog18.github.io/claudiostazzone.it/en/post/</loc>
