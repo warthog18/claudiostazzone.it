@@ -80,6 +80,41 @@
                 href="https://warthog18.github.io/claudiostazzone.it/event/"
                 />
   </url><url>
+    <loc>https://warthog18.github.io/claudiostazzone.it/project/</loc>
+    <lastmod>2021-10-28T02:18:06+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://warthog18.github.io/claudiostazzone.it/en/project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://warthog18.github.io/claudiostazzone.it/project/"
+                />
+  </url><url>
+    <loc>https://warthog18.github.io/claudiostazzone.it/project/this-website/</loc>
+    <lastmod>2021-10-28T02:18:06+02:00</lastmod>
+  </url><url>
+    <loc>https://warthog18.github.io/claudiostazzone.it/tag/automazione/</loc>
+    <lastmod>2021-10-28T01:05:49+02:00</lastmod>
+  </url><url>
+    <loc>https://warthog18.github.io/claudiostazzone.it/project/lab-automation/</loc>
+    <lastmod>2021-10-28T01:05:49+02:00</lastmod>
+  </url><url>
+    <loc>https://warthog18.github.io/claudiostazzone.it/tags/</loc>
+    <lastmod>2021-10-28T01:05:49+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://warthog18.github.io/claudiostazzone.it/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://warthog18.github.io/claudiostazzone.it/tags/"
+                />
+  </url><url>
     <loc>https://warthog18.github.io/claudiostazzone.it/authors/</loc>
     <lastmod>2021-09-16T00:37:44+02:00</lastmod>
     <xhtml:link
@@ -135,34 +170,8 @@
                 href="https://warthog18.github.io/claudiostazzone.it/project/poems/"
                 />
   </url><url>
-    <loc>https://warthog18.github.io/claudiostazzone.it/project/</loc>
-    <lastmod>2021-09-16T00:37:44+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://warthog18.github.io/claudiostazzone.it/en/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://warthog18.github.io/claudiostazzone.it/project/"
-                />
-  </url><url>
     <loc>https://warthog18.github.io/claudiostazzone.it/category/scrittura/</loc>
     <lastmod>2021-09-16T00:37:44+02:00</lastmod>
-  </url><url>
-    <loc>https://warthog18.github.io/claudiostazzone.it/tags/</loc>
-    <lastmod>2021-09-16T00:37:44+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://warthog18.github.io/claudiostazzone.it/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://warthog18.github.io/claudiostazzone.it/tags/"
-                />
   </url><url>
     <loc>https://warthog18.github.io/claudiostazzone.it/courses/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
