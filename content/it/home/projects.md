@@ -33,12 +33,12 @@ content:
     tag: Strumentazione
   - name: Traduzioni
     tag: Traduzioni
-  - name: Altro
-    tag: Generale
   - name: Scrittura
     tag: Poesie
   - name: Tecnologie Web
     tag: Siti Statici
+  - name: Automazione
+    tag: Automazione
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
